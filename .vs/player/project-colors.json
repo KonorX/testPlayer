@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f7775479-39ae-4e63-bcbb-2c8888676053": {
+      "ProjectGuid": "f7775479-39ae-4e63-bcbb-2c8888676053",
+      "DisplayName": "player",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
